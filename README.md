@@ -1,6 +1,6 @@
 # Csound CLAP experiment
 
-I had a play around with the nakst's [CLAP tutorial
+I had a play around with nakst's [CLAP tutorial
 code](https://nakst.gitlab.io/tutorial/clap-part-2.html) to see if I could
 adapt it to use Csound to generate the audio. The [Csound LADSPA
 plugin](https://github.com/csound/csladspa) repo was very helpful for this.
