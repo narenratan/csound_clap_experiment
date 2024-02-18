@@ -1,4 +1,5 @@
-; Example using Scala scl and kbm files to specify a tuning
+; Example Csound file to use with CLAP plugin
+; Uses per-note modulated volume
 
 <CsoundSynthesizer>
 <CsOptions>
